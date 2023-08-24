@@ -1,5 +1,4 @@
-Nuvem: A"nuvem" é um tipo de armazenamento em computação que os arquivos pessoais podem ser encontrados na própria Internet. Desse modo, tais arquivos tornam-se digitais e virtuais, 
-uma vez que é apenas possível acessá-los de maneira online. Para que esse acesso seja possível, é necessário uma conexão à internet em uma rede pública ou privada. 
+Nuvem: A"nuvem" é um tipo de armazenamento em computação que os arquivos pessoais podem ser encontrados na própria Internet. Desse modo, tais arquivos tornam-se digitais e virtuais, uma vez que é apenas possível acessá-los de maneira online. Para que esse acesso seja possível, é necessário uma conexão à internet em uma rede pública ou privada. 
 
 Jurimetria: Pode ser compreendida como uma área de estudo que aborda tanto o direito como a estatítica. Assim sendo, há uma fusão das duas ciências para o alcance de resultados mais eficazes. Em seus usos, há o uso de uma gama de softwares jurídicos que visam a prever os resultados finais de um determinado conflito, para que, assim, haja maior previsibilidade no processo.
 
@@ -7,6 +6,7 @@ Inteligência Artificial: Recentemente, a inteligência artificial, como o próp
 
 Banco de Dados: Um banco de dados pode ser caracterizado como um conjunto ou uma coleção de informações que podem ser encontradas nas mas variadas formas: estatíticas, textos ou pesquisas em geral. Os bancos de dados, geralmente, são fontes confiáveis de provimento de informações.
 
+Sistema de Arquivos
 
 
 
